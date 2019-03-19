@@ -8,14 +8,19 @@
  	Названия классов и структур с заглавной буквы
 *	public class Shape;
 *	public struct Point;
+	
 	Названия методов с заглавной буквы
 *	public void Init();
+	
 	Названия свойств (get; set;) с заглавной буквы
 *	public bool Enabled {get; set;}
+	
 	Названия полей с маленькой буквы
 *	private bool enabled;
+	
 	Обычно не использую знак подчёркивания (_) при именовании классов, структур, методов, свойств и полей.
 *	public object base_object;
+	
 	Если название состоит из нескольких слов, каждое следующие начинается с заглавной буквы
 *	public class BaseObject;
 *	public BaseObject baseObject;
